@@ -1,0 +1,160 @@
+﻿body {
+	font-family: Lucida Console;
+}
+.construccion {
+	background: hsla(360, 100%, 50%, 0.8);
+}
+.index {
+	background: url("fondos/index.jpg") no-repeat center;
+	background-size: cover;
+}
+.titulito {
+	font-style: italic;
+	font-size: 35px;
+}
+.naranja {
+	background: hsla(30, 100%, 50%, 0.2);
+	margin: 1%;
+	padding: 1%;
+	border-radius: 5px;
+	font-size: 16px;
+}
+.rojo {
+	background: hsla(360, 100%, 50%, 0.2);
+	margin: 1%;
+	padding: 1%;
+	border-radius: 5px;
+	font-size: 16px;
+}
+.muestras {
+	background: url("fondos/muestras.jpg") no-repeat center;
+	background-size: cover;
+}
+.galeria {
+	color: #ffffff;
+	margin: 1% 0%;
+}
+.portadas {
+	background: hsla(360, 100%, 50%, 0.2);
+	width: 100%;
+	margin: 1%;
+	padding: 1%;
+	border-radius: 5px;
+}
+.galeria a {
+	color: #fb0;
+	font-weight: bold;
+}
+.galeria a:hover {
+	color: #fb0;
+	font-weight: bold;
+	text-decoration: none;
+}
+.portadas img {
+	width: 100%;
+	border-radius: 5px;
+}
+.barra {
+	height: 40px;
+	background: hsla(360, 100%, 50%, 0.2);
+	margin: 1% 0%;
+	text-align: center;
+}
+.derecha {
+	margin: 0% 35% 0% 0%;
+	display: block;
+}
+.izquierda {
+	margin: 0% 0% 0% 35%;
+	display: block;
+}
+.barra img {
+	height: 40px;
+}
+.barra nav {
+	display: inline;
+	margin: 0% 2%;
+}
+.cuadro {
+	height: 400px;
+	display: block;
+}
+.cuadro img {
+	margin: auto;
+	max-height: 400px;
+}
+.nombre,
+.nombre:hover,
+.nombre:active {
+	box-shadow: 5px 5px 5px #3c3c3c;
+	background-color: #f00;
+	opacity: 0.5;
+	font-weight: bold;
+	color: #fff;
+}
+.datos {
+	color: #000;
+	background: #fff;
+	opacity: 0.8;
+	width: 30%;
+	margin: 1% 1% 1% 25%;
+}
+.catalogo {
+	display: none;
+}
+@media (min-width: 400px max-width: 600px) {
+.titulito {
+	font-size: 16px;
+}
+.galeria {
+	font-size: 12px;
+}
+p {
+	font-size: 12px;
+}
+.barra {
+	height: 25px;
+}
+.barra img {
+	height: 25px;
+}
+.cuadro {
+	height: 250px;
+	display: block;
+}
+.cuadro img {
+	margin: auto;
+	max-height: 250px;
+}
+.logo {
+	display: none;
+}
+}
+@media (max-width: 400px) {
+.titulito {
+	font-size: 14px;
+}
+.barra {
+	height: 20px;
+}
+.barra img {
+	height: 20px;
+}
+.cuadro {
+	height: 200px;
+	display: block;
+}
+.cuadro img {
+	margin: auto;
+	max-height: 200px;
+}
+.galeria {
+	font-size: 10px;
+}
+p {
+	font-size: 10px;
+}
+.logo {
+	display: none;
+}
+}
