@@ -1,8 +1,5 @@
-﻿body {
+body {
 	font-family: Lucida Console;
-}
-.construccion {
-	background: hsla(360, 100%, 50%, 0.8);
 }
 .index {
 	background: url("fondos/fondo2.jpeg") no-repeat center;
@@ -27,7 +24,7 @@
 	font-size: 16px;
 }
 .muestras {
-	background: url("fondos/muestras.jpg") no-repeat center;
+	background: url("fondos/fondo3.jpeg") no-repeat center;
 	background-size: cover;
 }
 .galeria {
