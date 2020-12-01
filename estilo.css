@@ -9,6 +9,7 @@ body {
 .titulito {
 	font-style: italic;
 	font-size: 35px;
+	color:#000000;
 }
 .naranja {
 	background: hsla(30, 100%, 50%, 0.2);
