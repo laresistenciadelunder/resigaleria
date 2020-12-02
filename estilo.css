@@ -9,7 +9,7 @@ body {
 .titulito {
 	font-style: italic;
 	font-size: 35px;
-	text-shadow: 15px 15px 0 rgb (0, 0, 0);
+	text-shadow: 15px 15px 5px #000000;
 }
 .naranja {
 	background: hsla(30, 100%, 50%, 0.2);
