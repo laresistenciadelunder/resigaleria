@@ -7,7 +7,8 @@ body {
 	background-attachment: fixed;
 }
 .titulito {
-	font-style: bold italic;
+	font-style: italic;
+	font-weight: bold;
 	font-size: 35px;
 	text-shadow: 1px 1px 0px #000000, 3px 3px 2px #000000, 5px 5px 3px #000000, 7px 7px 5px #000000;
 }
