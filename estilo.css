@@ -19,7 +19,7 @@ body {
 	border-radius: 5px;
 	font-size: 16px;
 	text-shadow: 3px 3px 0px #000000;
-	text-shadow: -3px -3px 0px hsla(30, 100%, 50%, 0);
+	text-shadow: -3px -3px 0px #ff7f00;
 }
 .rojo {
 	background: hsla(360, 100%, 50%, 0.2);
@@ -28,7 +28,7 @@ body {
 	border-radius: 5px;
 	font-size: 16px;
 	text-shadow: 3px 3px 0px #000000;
-	text-shadow: -3px -3px 0px hsla(360, 100%, 50%, 0);
+	text-shadow: -3px -3px 0px #ff0000;
 }
 .muestras {
 	background: url("fondos/fondo3.jpeg") no-repeat center;
