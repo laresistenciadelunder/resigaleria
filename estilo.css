@@ -2,14 +2,14 @@ body {
 	font-family: Lucida Console;
 }
 .index {
-	background: url("fondos/fondo1.jpeg") no-repeat center;
+	background: url("fondos/fondo2.jpeg") no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 }
 .titulito {
 	font-style: italic;
 	font-size: 35px;
-	text-shadow: 15px 15px 5px #000000;
+	text-shadow: 5px 5px 0px #000000, 10px 10px 3px #000000, 15px 15px 5px #000000;
 }
 .naranja {
 	background: hsla(30, 100%, 50%, 0.2);
