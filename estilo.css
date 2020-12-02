@@ -18,8 +18,7 @@ body {
 	padding: 1%;
 	border-radius: 5px;
 	font-size: 16px;
-	text-shadow: 5px 5px 0px #000000;
-	text-shadow: -5px -5px 0px #ff7f00;
+	text-shadow: 3px 3px 0px #000000, -3px -3px 0px #ff7f00;
 }
 .rojo {
 	background: hsla(360, 100%, 50%, 0.2);
@@ -27,8 +26,7 @@ body {
 	padding: 1%;
 	border-radius: 5px;
 	font-size: 16px;
-	text-shadow: 5px 5px 0px #000000;
-	text-shadow: -5px -5px 0px #ff0000;
+	text-shadow: 3px 3px 0px #000000, -3px -3px 0px #ff0000;
 }
 .muestras {
 	background: url("fondos/fondo3.jpeg") no-repeat center;
