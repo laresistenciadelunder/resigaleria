@@ -1,5 +1,6 @@
 body {
 	font-family: Lucida Console;
+	text-shadow: 1px 1px 0px #000000
 }
 .index {
 	background: url("fondos/fondo2.jpeg") no-repeat center;
