@@ -57,6 +57,7 @@ body {
 	border-radius: 5px;
 }
 .barra {
+	display: block;
 	height: 40px;
 	background: hsla(360, 100%, 50%, 0.2);
 	margin: 1% 0%;
