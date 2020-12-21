@@ -77,9 +77,10 @@ body {
 	display: inline;
 	margin: 0% 2%;
 }
-.sup {
-	margin: 0% 10% 0% 10%;
-	display: block;
+.redes {
+	background: hsla(360, 100%, 50%, 0.5);
+	margin: 0%;
+	padding: 3%;
 }
 .cuadro {
 	height: 400px;
