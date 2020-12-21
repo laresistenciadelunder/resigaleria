@@ -77,11 +77,6 @@ body {
 	display: inline;
 	margin: 0% 2%;
 }
-.redes {
-	background: hsla(360, 100%, 50%, 0.5);
-	margin: 0%;
-	padding: 3%;
-}
 .cuadro {
 	height: 400px;
 	display: block;
