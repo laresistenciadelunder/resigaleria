@@ -62,6 +62,9 @@ body {
 	margin: 1% 0%;
 	text-align: center;
 }
+.dropdown.open {
+	color: orange;
+}
 .derecha {
 	margin: 0% 35% 0% 0%;
 	display: block;
