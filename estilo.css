@@ -62,7 +62,7 @@ body {
 	margin: 1% 0%;
 	text-align: center;
 }
-.dropdown.open {
+.dropdown.open li {
 	color: orange;
 }
 .derecha {
