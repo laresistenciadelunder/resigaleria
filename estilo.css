@@ -84,7 +84,7 @@ body {
 .cuadro img {
 	margin: auto;
 	max-height: 400px;
-	opacity: 0;
+	opacity: 0.5;
 }
 .nombre,
 .nombre:hover,
