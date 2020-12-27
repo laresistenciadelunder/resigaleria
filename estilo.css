@@ -70,10 +70,10 @@ body {
 	margin: 0% 0% 0% 35%;
 	display: block;
 }
-.barra img {
+.barra img, .barrasuperior img {
 	height: 40px;
 }
-.barra nav {
+.barra nav, .barrasuperior nav {
 	display: inline;
 	margin: 0% 2%;
 }
@@ -129,7 +129,7 @@ p {
 .barra {
 	height: 25px;
 }
-.barra img {
+.barra img, .barrasuperior img {
 	height: 25px;
 }
 .cuadro {
@@ -159,7 +159,7 @@ p {
 .barra {
 	height: 20px;
 }
-.barra img {
+.barra img, .barrasuperior img {
 	height: 20px;
 }
 .cuadro {
