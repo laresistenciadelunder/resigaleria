@@ -56,7 +56,7 @@ body {
 	width: 100%;
 	border-radius: 5px;
 }
-.barra, .barrasuperior {
+.barra {
 	height: 40px;
 	background: hsla(360, 100%, 50%, 0.2);
 	margin: 1% 0%;
@@ -70,10 +70,10 @@ body {
 	margin: 0% 0% 0% 35%;
 	display: block;
 }
-.barra img, .barrasuperior img {
+.barra img {
 	height: 40px;
 }
-.barra nav, .barrasuperior nav {
+.barra nav {
 	display: inline;
 	margin: 0% 2%;
 }
@@ -129,7 +129,10 @@ p {
 .barra {
 	height: 25px;
 }
-.barra img, .barrasuperior img {
+.barrita {
+	height: 40px;
+}
+.barra img {
 	height: 25px;
 }
 .cuadro {
@@ -159,7 +162,10 @@ p {
 .barra {
 	height: 20px;
 }
-.barra img, .barrasuperior img {
+barrita {
+	height: 40px;
+}
+.barra img {
 	height: 20px;
 }
 .cuadro {
