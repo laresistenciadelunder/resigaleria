@@ -56,7 +56,7 @@ body {
 	width: 100%;
 	border-radius: 5px;
 }
-.barra {
+.barra, .barrita {
 	height: 40px;
 	background: hsla(360, 100%, 50%, 0.2);
 	margin: 1% 0%;
@@ -70,10 +70,10 @@ body {
 	margin: 0% 0% 0% 35%;
 	display: block;
 }
-.barra img {
+.barra img, .barrita img {
 	height: 40px;
 }
-.barra nav {
+.barra nav, {
 	display: inline;
 	margin: 0% 2%;
 }
@@ -129,9 +129,6 @@ p {
 .barra {
 	height: 25px;
 }
-.barrita {
-	height: 40px;
-}
 .barra img {
 	height: 25px;
 }
@@ -161,9 +158,6 @@ p {
 }
 .barra {
 	height: 20px;
-}
-barrita {
-	height: 40px;
 }
 .barra img {
 	height: 20px;
