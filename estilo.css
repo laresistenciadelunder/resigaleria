@@ -102,9 +102,6 @@ body {
 	width: 30%;
 	margin: 1% 1% 1% 25%;
 }
-.relleno {
-	display: none;
-}
 .catalogo {
 	display: none;
 }
@@ -143,13 +140,6 @@ p {
 .logo {
 	display: none;
 }
-.relleno {
-	display: inline;
-	height: 200px;
-}
-.cap {
-	display: none;
-}
 }
 @media (max-width: 400px) {
 .index {
@@ -184,13 +174,6 @@ p {
 	font-size: 10px;
 }
 .logo {
-	display: none;
-}
-.relleno {
-	display: inline;
-	height: 200px;
-}
-.cap {
 	display: none;
 }
 }
