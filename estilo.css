@@ -147,6 +147,9 @@ p {
 	display: inline;
 	height: 200px;
 }
+.cap {
+	display: none;
+}
 }
 @media (max-width: 400px) {
 .index {
@@ -186,5 +189,8 @@ p {
 .relleno {
 	display: inline;
 	height: 200px;
+}
+.cap {
+	display: none;
 }
 }
