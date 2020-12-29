@@ -143,6 +143,10 @@ p {
 .logo {
 	display: none;
 }
+.relleno {
+	display: inline;
+	height: 200px;
+}
 }
 @media (max-width: 400px) {
 .index {
