@@ -84,6 +84,7 @@ body {
 .cuadro img {
 	margin: auto;
 	max-height: 400px;
+	opacity: 1;
 }
 .transparente {
 	opacity: 0;
