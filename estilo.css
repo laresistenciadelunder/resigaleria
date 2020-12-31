@@ -3,7 +3,7 @@ body {
 }
 .index {
 	background: url("fondos/fondo2.jpeg") no-repeat center;
-	background-size: cover;
+	background-size: contain;
 	background-attachment: fixed;
 }
 .titulito {
