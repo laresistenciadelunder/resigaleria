@@ -107,6 +107,9 @@ body {
 .catalogo {
 	display: none;
 }
+.movil {
+	display: none;
+}
 @media (min-width: 400px max-width: 600px) {
 .index {
 	background: url("fondos/fondo5.jpeg") no-repeat center;
@@ -139,8 +142,12 @@ p {
 	margin: auto;
 	max-height: 250px;
 }
-.logo {
+.logo,
+.pc{
 	display: none;
+}
+.movil {
+	dislay: block;
 }
 }
 @media (max-width: 400px) {
@@ -175,7 +182,11 @@ p {
 p {
 	font-size: 10px;
 }
-.logo {
+.logo,
+.pc {
 	display: none;
+}
+.movil {
+	dislay: block;
 }
 }
