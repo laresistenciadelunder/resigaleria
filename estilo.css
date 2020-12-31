@@ -86,10 +86,7 @@ body {
 	max-height: 400px;
 }
 .foto {
-	z-index: 1;
-}
-.capatransp {
-	z-index: 2;
+	pointer-events: none;
 }
 .nombre,
 .nombre:hover,
