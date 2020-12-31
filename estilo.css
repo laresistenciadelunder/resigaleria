@@ -146,11 +146,11 @@ p {
 @media (max-width: 400px) {
 .index {
 	background: url("fondos/fondo5.jpeg") no-repeat center;
-	background-size: contain;
+	background-size: cover;
 }
 .muestras {
 	background: url("fondos/fondo4.jpeg") no-repeat center;
-	background-size: cover;
+	background-size: contain;
 }
 .titulito {
 	font-size: 14px;
