@@ -114,7 +114,7 @@ body {
 }
 .muestras {
 	background: url("fondos/fondo4.jpeg") no-repeat center;
-	background-size: contain;
+	background-size: cover;
 }
 .titulito {
 	font-size: 16px;
@@ -150,7 +150,7 @@ p {
 }
 .muestras {
 	background: url("fondos/fondo4.jpeg") no-repeat center;
-	background-size: contain;
+	background-size: cover;
 }
 .titulito {
 	font-size: 14px;
@@ -176,6 +176,9 @@ p {
 	font-size: 10px;
 }
 .logo {
+	display: none;
+}
+.carousel-caption {
 	display: none;
 }
 }
