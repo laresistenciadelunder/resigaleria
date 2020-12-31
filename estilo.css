@@ -30,7 +30,7 @@ body {
 }
 .muestras {
 	background: url("fondos/fondo3.jpeg") no-repeat center;
-	background-size: cover;
+	background-size: contain;
 }
 .galeria {
 	color: #ffffff;
