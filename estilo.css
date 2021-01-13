@@ -1,5 +1,6 @@
 body {
 	font-family: Lucida Console;
+	min-height: 100vh;
 }
 .index {
 	background: url("img/fondos/fondo2.jpeg") no-repeat center;
